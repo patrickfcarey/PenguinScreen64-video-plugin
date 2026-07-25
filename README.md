@@ -1,4 +1,4 @@
-# PenguinScreen64-video
+# PenguinScreen64-video-plugin
 
 The video plugin for **PenguinScreen64** — a fork of
 [GLideN64](https://github.com/gonetz/GLideN64) extended with a per-eye VR

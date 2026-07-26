@@ -6,7 +6,8 @@ render path. Paired with the PenguinScreen64 core, profiled games render with
 true dual-view stereoscopic depth; on its own it behaves as the excellent
 standard GLideN64 plugin it is built on.
 
-> **Status: early source release.** Builds like upstream GLideN64. Binary
+> **Status: EXPERIMENTAL — early source release, not yet field-validated.**
+> Builds like upstream GLideN64. Binary
 > packages ship bundled with the PenguinScreen64 core releases.
 
 ## What the fork adds
